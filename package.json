@@ -41,5 +41,7 @@
       "bem": false
     }
   },
-  "dependencies": {}
+  "dependencies": {
+    "mate-scripts": "0.0.1"
+  }
 }
