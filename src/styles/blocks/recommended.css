@@ -1,0 +1,11 @@
+.recommended__products {
+  display: grid;
+  row-gap: 40px;
+}
+@incl @include onDesktop {
+  .recommended__products {
+    grid-template-columns: repeat(3, 1fr);
+    -moz-column-gap: 24px;
+         column-gap: 24px;
+  }
+}/*# sourceMappingURL=recommended.css.map */
