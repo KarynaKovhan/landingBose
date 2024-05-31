@@ -1,1 +1,1 @@
-    - [DEMO LINK](https://KarynaKovhan.github.io/landingBose/)
+    - [DEMO LINK](KarynaKovhan.github.io/landingBose/)
